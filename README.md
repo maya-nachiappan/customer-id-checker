@@ -1,0 +1,1 @@
+This C++ program validates customer numbers based on a specified format: two alphabetic characters followed by four digits (e.g., "AB1234"). It checks the input using ASCII values to ensure compliance with the format.
